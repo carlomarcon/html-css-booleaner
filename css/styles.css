@@ -72,3 +72,27 @@ th {
 .linea3 {
   height: 50px;
 }
+
+.monitor {
+  background-image: url(../img/monitor.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 140px;
+  width: 200px;
+  color: white;
+  display: inline-block;
+}
+
+.graph {
+  background-image: url(../img/graph.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 200px;
+  width: 200px;
+  color: white;
+  margin: 0;
+}
+
+.Interessi {
+  margin-bottom: 10px;
+}
