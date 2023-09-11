@@ -1,5 +1,10 @@
 body {
   margin: 0;
+  font-family: "Times New Roman", Times, serif;
+}
+
+span {
+  color: rgb(0, 136, 255);
 }
 
 .starter {
@@ -17,4 +22,14 @@ body {
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: 100% 70%;
+}
+
+.autore {
+  color: grey;
+  font-size: 15px;
+}
+
+.Data {
+  color: grey;
+  font-size: 15px;
 }
